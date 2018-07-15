@@ -1,5 +1,5 @@
 # E2E System
-- Created by: STI Caloocan Programming Team
+- Created by: STI Caloocan Programming Team  
 	-Joamar Derije - Project Manager  
 	-Ben Mari R. Margelino  
 	-Joshua Banares  
